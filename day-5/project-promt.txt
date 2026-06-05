@@ -1,0 +1,10 @@
+We are final year diploma students of computer.
+We have a final year diploma project and currently we are going with ITR that is internship program of ninety days with Python AI ML.
+
+We need to create a final layer project which will be of moderate logic of AIML, okay, but which must not be more simple and more harder, it must suits to the norms as per given by MSBTE board.
+
+So we request to provide some unique final year project titles with their basic understanding, that is a basic abstract. You can provide us five right now five titles with their basic abstract and basic understanding. If we want more we will type more.
+
+ Project must be unique and also provide us a basic understanding that what type of libraries we may be using in this project like NumPy, Pandas, etcetera etcetera.
+
+Also provide us a topic names of AML which will be included in this particular project.
