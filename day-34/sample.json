@@ -1,0 +1,72 @@
+[
+  {
+    "roll_no": 101,
+    "name": "Aarav Sharma",
+    "age": 20,
+    "gender": "Male",
+    "city": "Pune"
+  },
+  {
+    "roll_no": 102,
+    "name": "Diya Patel",
+    "age": 21,
+    "gender": "Female",
+    "city": "Mumbai"
+  },
+  {
+    "roll_no": 103,
+    "name": "Vivaan Singh",
+    "age": 19,
+    "gender": "Male",
+    "city": "Nashik"
+  },
+  {
+    "roll_no": 104,
+    "name": "Anaya Joshi",
+    "age": 22,
+    "gender": "Female",
+    "city": "Nagpur"
+  },
+  {
+    "roll_no": 105,
+    "name": "Ishaan Verma",
+    "age": 20,
+    "gender": "Male",
+    "city": "Aurangabad"
+  },
+  {
+    "roll_no": 106,
+    "name": "Siya Kulkarni",
+    "age": 21,
+    "gender": "Female",
+    "city": "Thane"
+  },
+  {
+    "roll_no": 107,
+    "name": "Kabir Mehta",
+    "age": 23,
+    "gender": "Male",
+    "city": "Kolhapur"
+  },
+  {
+    "roll_no": 108,
+    "name": "Myra Deshmukh",
+    "age": 20,
+    "gender": "Female",
+    "city": "Solapur"
+  },
+  {
+    "roll_no": 109,
+    "name": "Aditya Nair",
+    "age": 22,
+    "gender": "Male",
+    "city": "Jalgaon"
+  },
+  {
+    "roll_no": 110,
+    "name": "Kiara Shah",
+    "age": 19,
+    "gender": "Female",
+    "city": "Satara"
+  }
+]
